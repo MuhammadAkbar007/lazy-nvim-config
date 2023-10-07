@@ -31,9 +31,9 @@ return {
 					separator = true,
 					highlight = "Directory",
 					text = "📁 Akbar Ahmad ibn Akrom",
-					--				text = function()
-					--					return vim.fn.getcwd()
-					--				end,
+					-- text = function()
+					--	return vim.fn.getcwd()
+					-- end,
 				},
 			},
 		},
